@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vidyakundeti7/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [1920-build-array-from-permutation](https://github.com/vidyakundeti7/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vidyakundeti7/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/vidyakundeti7/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
